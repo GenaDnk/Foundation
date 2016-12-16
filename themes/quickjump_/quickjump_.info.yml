@@ -7,6 +7,7 @@ force_export: false
 inherit_layout: false
 scss_support: true
 libraries:
+  - quickjump_/slick
   - quickjump_/quickjump_
 regions:
   header: Header

@@ -8,7 +8,7 @@ quickjump_:
       style/css/quickjump_.css: 'style/scss/quickjump_.scss'
   version: VERSION
   js:
-    js/quickjump_.js: {}
+    js/quickjump_.js: {}    
   css:
     theme:
       style/css/quickjump_.css: {}
