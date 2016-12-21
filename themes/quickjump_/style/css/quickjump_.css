@@ -1,47 +1,16 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
- * Fonts
- */
-/*
- * SAMPLE SCSS FILE CONTENTS
- */
+.region-header ul {
+    color:green;
+}
+#footer-outer-wrapper {
+    background: #383C3F;
+    width: 100%;
+}
+.region-footer h2 {
+    color: #E3E4E4;
+}
+.region-footer p {
+    color:#5B5F61;
+}
+#footer-outer-wrapper a {
+    color:#5B5F61;
+}
