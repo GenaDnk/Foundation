@@ -1,3 +1,4 @@
+
 #block-quickjump-aboutfoundation-2{
     display: inline-block;
     width: 370px;
@@ -34,7 +35,7 @@
 
 .path-frontpage #header-outer-wrapper {
     height: 700px;
-    background-image: url(hero_2.jpg) ;
+    background-image: url(../../hero_2.jpg) ;
 }
 
 
@@ -62,7 +63,7 @@
 
 ul.nice-menu.nice-menu-main.nice-menu-down.toolbar-menu.nice-menus-processed.sf-js-enabled.sf-arrows  {
     display: inline-block;
-    width: 175px;
+    width: 200px;
 
     float:left;
 }
@@ -75,39 +76,76 @@ ul.nice-menu.nice-menu-main.nice-menu-down.toolbar-menu.nice-menus-processed.sf-
     margin-left: 10px;
     display: inline-block;
     float:right;
-
-
-
-
-
-.form--inline {
-    display: inline-block;
 }
-.form-item-tid-1 {
+
+
+
+
+
+
+/*.form-item-tid-1 {
     float:left;
     display: inline-block;
-    width: 600px;
+    width: 20%;
     font-weight: bold;
 
 }
 .form-item-tid{
-    display: inline-block;
-    width: 600px;
-    font-weight: bold;
 
+    display: inline-block;
+    float:left;
+    width: 20%;
+    font-weight: bold;
 }
 .form-item-title{
     display: inline-block;
-    width: 600px;
+    width: 20%;
 
+}*/
+
+
+.js-form-item.form-item.js-form-type-textfield.form-type-textfield.js-form-item-title.form-item-title{
+    width: 41%;
+}
+
+.js-form-item.form-item.js-form-type-entity-autocomplete.form-type-entity-autocomplete.js-form-item-tid-1.form-item-tid-1{
+    display: inline-block;
+    float:left;
+    width: 40%
+}
+
+.js-form-item.form-item.js-form-type-entity-autocomplete.form-type-entity-autocomplete.js-form-item-tid.form-item-tid{
+    float: none;
+    width: 40%
+}
+.form--inline .form-item {
+    float: none;
+}
+
+#block-exposedformeasily-discoverpage-1-2{
+    margin-top: 100px;
+    margin-left: 15px;
 }
 
 
 
 
+/*input#edit-tid-2{
+    float: none;
+    width: 40%
+}*/
 
-
-
+.js-form-item.form-item.js-form-type-entity-autocomplete.form-type-entity-autocomplete.js-form-item-tid-1.form-item-tid-1{
+    float: none;
+    width: 40%
+}
+.js-form-item.form-item.js-form-type-entity-autocomplete.form-type-entity-autocomplete.js-form-item-tid-2.form-item-tid-2{
+    float: none;
+    width: 550px;
+}
+.js-form-item.form-item.js-form-type-textfield.form-type-textfield.js-form-item-title.form-item-title{
+    width: 550px;
+}
 
 
 
