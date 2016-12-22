@@ -1,6 +1,21 @@
-.region-header ul {
-    color:green;
+#block-quickjump-aboutfoundation-2{
+    display: inline-block;
+    width: 370px;
+    float:left;
+    margin: 10px;
 }
+#block-quickjump-views-block-categories-block-3 {
+    display: inline-block;
+    width: 275px;
+    float:left;
+    margin: 10px;
+}
+#block-quickjump-views-block-listings-everywhere-block-3 {
+    display: inline-block;
+    width: 280px;
+    margin: 10px;
+}
+
 #footer-outer-wrapper {
     background: #383C3F;
     width: 100%;
@@ -13,4 +28,108 @@
 }
 #footer-outer-wrapper a {
     color:#5B5F61;
+}
+
+
+
+.path-frontpage #header-outer-wrapper {
+    height: 700px;
+    background-image: url(hero_2.jpg) ;
+}
+
+
+
+
+
+#site-branding{
+    display: inline-block;
+    float: left;
+    width: 25%;
+    margin: 0px auto;
+    margin-left: 15px;
+}
+#site-branding .site-name{
+ font-size: 25px;
+}
+
+
+#site-branding img {
+    height: 30px;
+}
+
+
+
+
+ul.nice-menu.nice-menu-main.nice-menu-down.toolbar-menu.nice-menus-processed.sf-js-enabled.sf-arrows  {
+    display: inline-block;
+    width: 175px;
+
+    float:left;
+}
+
+
+
+
+
+.path-frontpage #search-block-form{
+    margin-left: 10px;
+    display: inline-block;
+    float:right;
+
+
+
+
+
+.form--inline {
+    display: inline-block;
+}
+.form-item-tid-1 {
+    float:left;
+    display: inline-block;
+    width: 600px;
+    font-weight: bold;
+
+}
+.form-item-tid{
+    display: inline-block;
+    width: 600px;
+    font-weight: bold;
+
+}
+.form-item-title{
+    display: inline-block;
+    width: 600px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#block-quickjump-mostrecentlistings {
+    text-align: center;
+}
+#block-quickjump-listingseverywhere {
+    text-align: center;
+}
+#block-quickjump-categories{
+text-align: center;
+}
+#block-quickjump-features {
+    text-align: center;
+}
+#block-quickjump-topnewsyoushouldntmiss {
+    text-align: center;
+}
+
+#content-outer-wrapper{
+    width: auto;
 }
